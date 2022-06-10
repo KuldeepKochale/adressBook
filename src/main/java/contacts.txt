@@ -1,0 +1,16 @@
+Name,Surname,Street,City,State,Zip
+Dave,Smith,123mainst.,seattle,wa,43
+Alice,Smith,123MainSt.,Seattle,WA,45
+bOb,Williams,2342ndAve.,Tacoma,WA,26
+Carol,Johnson,2342ndAve,Seattle,WA,67
+TOm,Bombadillo,1212MapleStreet,Florida,GA,520
+Jimbo,Jones,82PineStreet,Atlanta,GA,2
+Jackie,Jones,82PineStreet,Atlanta,GA,6
+Tommy,Jones,82PineStreet,Atlanta,GA,29
+tammy,Jones,82PineStreet,Atlanta,GA,27
+EvE,Smith,2342ndAve.,Tacoma,WA,25
+Frank,Jones,2342ndAve.,Tacoma,FL,23
+“george,Brown,3453rdBlvd.,Apt.200,Seattle,WA,19
+Helen,Brown,3453rdBlvd.Apt.200,Seattle,WA,18
+Ian,smith,123mainst,Seattle,Wa,18
+Jane,Smith,123MainSt.,Seattle,WA,13
